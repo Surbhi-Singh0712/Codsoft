@@ -1,4 +1,6 @@
 # Codsoft
+All code are written in java.
+
 Task1. Developed a Number Guessing Game for user interaction and logical programming.-->In this user guess the randomly generated number.
 Task2. Built a Student Grade Calculator to automate grade assignments and percentage calculations.
 Task4.  Designed an Currency Converter by fetching real-world exchange rate through reliable api.Convert the base currency to target currency.
